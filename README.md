@@ -14,4 +14,4 @@ When trying to place a piece the program will then iterate through this table un
 
 If the later happens the program will discard that solution and try another.
 
-To start the program open the Cube.java and press run, there is a good deal of luck involved depending on the seed, so finding a solution may take some time.
+To start the program open the Cube.java and press run, there is a good deal of luck involved depending on the seed, so finding a solution may take some time. This is a valid solution if you don't want to wait: 9c562a043817b
